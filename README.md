@@ -1,6 +1,8 @@
 # URN Android
 Android app for streaming [URN](http://urn1350.net) (the student run radio station at The University of Nottingham)
 
+## \*\* After leaving URN, development has continued at: https://github.com/URN/URN-Android **
+
 ![Logo](https://github.com/jamesturner/urn-android/raw/master/app/src/main/res/drawable-xxxhdpi/ic_urn.png "Logo")
 
 ![Screenshot1](https://github.com/jamesturner/urn-android/raw/master/screenshots/screenshot-1.png "Screenshot 1")
